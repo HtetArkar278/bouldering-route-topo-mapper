@@ -1,0 +1,10 @@
+# Generated outputs -- fully reproducible by running the scripts in scripts/
+data/processed/
+data/raw/synthetic_wall_v1.png
+data/raw/synthetic_wall_v1_ground_truth.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
